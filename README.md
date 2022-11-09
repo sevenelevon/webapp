@@ -9,3 +9,5 @@ https://github.com/coreybutler/nvm-windows#install-nvm-windows
 https://docs.strapi.io/developer-docs/latest/getting-started/quick-start.html
 4. Анимация React
 https://github.com/sevenelevon/webapp/blob/main/ui.animation
+5. Полезные ссылки по верстке
+https://www.youtube.com/watch?v=mf3s6J5V8cE
