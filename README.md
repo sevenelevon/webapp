@@ -12,3 +12,5 @@ https://github.com/sevenelevon/webapp/blob/main/ui.animation
 5. Полезные ссылки по верстке
 https://www.youtube.com/watch?v=mf3s6J5V8cE
 6. Sms vs Call Auth https://github.com/sevenelevon/webapp/blob/main/PhoneAuth
+7. Frontend Разметка
+https://github.com/sevenelevon/webapp/new/main
