@@ -14,3 +14,5 @@ https://www.youtube.com/watch?v=mf3s6J5V8cE
 6. Sms vs Call Auth https://github.com/sevenelevon/webapp/blob/main/PhoneAuth
 7. Frontend Разметка
 https://github.com/sevenelevon/webapp/new/main
+8. https://github.com/sevenelevon/webapp/blob/main/Api
+Работа с api
