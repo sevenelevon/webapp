@@ -16,3 +16,5 @@ https://www.youtube.com/watch?v=mf3s6J5V8cE
 https://github.com/sevenelevon/webapp/new/main
 8. https://github.com/sevenelevon/webapp/blob/main/Api
 Работа с api
+9. https://github.com/sevenelevon/webapp/new/main
+С чем мне 100% надо будет работать
